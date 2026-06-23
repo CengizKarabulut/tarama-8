@@ -1,4 +1,4 @@
-name: Tarama Keepalive Scheduler
+name: Haftalik Bot Zamanlayici
 
 on:
   push:
