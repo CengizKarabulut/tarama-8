@@ -162,12 +162,25 @@
     },
     "DENGE_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 2.45,
+=======
+      "price": 2.44,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "EDIP_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 37.6,
+=======
+      "price": 37.54,
+      "is_full": false
+    },
+    "KLRHO_1W": {
+      "time": "2026-06-22T06:00:00",
+      "price": 93.65,
+>>>>>>> Stashed changes
       "is_full": false
     }
   },
@@ -212,7 +225,11 @@
     },
     "MAKIM_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 19.63
+=======
+      "price": 19.66
+>>>>>>> Stashed changes
     }
   },
   "last_sent_rsi_macd": {
@@ -234,7 +251,11 @@
     },
     "MAKIM_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 19.63
+=======
+      "price": 19.66
+>>>>>>> Stashed changes
     },
     "SAMAT_1W": {
       "time": "2026-06-22T06:00:00",
@@ -242,7 +263,11 @@
     },
     "SERNT_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 10.8
+=======
+      "price": 10.95
+>>>>>>> Stashed changes
     }
   },
   "last_sent_ema": {
@@ -260,11 +285,19 @@
     },
     "MAKIM_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 19.63
     },
     "PAMEL_1W": {
       "time": "2026-06-22T06:00:00",
       "price": 105.1
+=======
+      "price": 19.66
+    },
+    "PAMEL_1W": {
+      "time": "2026-06-22T06:00:00",
+      "price": 105.7
+>>>>>>> Stashed changes
     },
     "SAMAT_1W": {
       "time": "2026-06-22T06:00:00",
@@ -822,11 +855,19 @@
     },
     "ALARK_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 101.7
     },
     "EGPRO_1W": {
       "time": "2026-06-22T06:00:00",
       "price": 42.58
+=======
+      "price": 101.9
+    },
+    "EGPRO_1W": {
+      "time": "2026-06-22T06:00:00",
+      "price": 42.5
+>>>>>>> Stashed changes
     },
     "EREGL_1W": {
       "time": "2026-06-22T06:00:00",
@@ -838,11 +879,19 @@
     },
     "KRSTL_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 10.89
     },
     "SILVR_1W": {
       "time": "2026-06-22T06:00:00",
       "price": 2.92
+=======
+      "price": 10.88
+    },
+    "SILVR_1W": {
+      "time": "2026-06-22T06:00:00",
+      "price": 2.91
+>>>>>>> Stashed changes
     }
   },
   "last_sent_h8": {
@@ -1088,6 +1137,7 @@
     },
     "BAKAB_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 53.8
     },
     "CELHA_1W": {
@@ -1101,6 +1151,17 @@
     "KARSN_1W": {
       "time": "2026-06-22T06:00:00",
       "price": 13.61
+=======
+      "price": 53.35
+    },
+    "CELHA_1W": {
+      "time": "2026-06-22T06:00:00",
+      "price": 19.24
+    },
+    "GEDIK_1W": {
+      "time": "2026-06-22T06:00:00",
+      "price": 7.03
+>>>>>>> Stashed changes
     },
     "OSMEN_1W": {
       "time": "2026-06-22T06:00:00",
@@ -1108,7 +1169,11 @@
     },
     "SILVR_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 2.92
+=======
+      "price": 2.91
+>>>>>>> Stashed changes
     }
   },
   "last_sent_i9": {
@@ -1122,12 +1187,20 @@
     },
     "MAKIM_1W": {
       "time": "2026-06-22T06:00:00",
+<<<<<<< Updated upstream
       "price": 19.63
+=======
+      "price": 19.66
+>>>>>>> Stashed changes
     }
   },
   "last_successful_scans": {
     "2026-06-23_18:30": "2026-06-23 19:09:12",
     "2026-06-24_09:30": "2026-06-24 09:43:49",
+<<<<<<< Updated upstream
     "2026-06-24_11:00": "2026-06-24 11:16:43"
+=======
+    "2026-06-24_11:00": "2026-06-24 11:22:30"
+>>>>>>> Stashed changes
   }
 }
